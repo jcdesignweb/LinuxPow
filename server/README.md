@@ -1,0 +1,1 @@
+docker container exec -ti linuxpow-node-api_app bash

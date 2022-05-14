@@ -1,0 +1,30 @@
+header nav a {
+    display: block !important;
+}
+
+header nav a i {
+    color: black;
+}
+
+
+.logo {
+    padding: 10px !important;
+}
+
+.list-packages {
+    padding: 5px;
+}
+
+.list-packages h3 {
+    padding: 0 10px;
+}
+
+.loader {
+    height: 60px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+#nav-menu {
+    margin-left: 120px;
+}
